@@ -16,6 +16,6 @@ cpi = ["no-entrypoint"]
 default = []
 
 [dependencies]
-anchor-lang = "0.29.0"
+anchor-lang = "0.30.1"
 orao-solana-vrf = { version = "0.4.0",  default-features = false, features = ["cpi"] }
 solana-program = "1.18.2"

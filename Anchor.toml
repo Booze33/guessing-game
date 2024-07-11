@@ -1,13 +1,13 @@
 [toolchain]
 # solana-cli="1.18.8" 
-# anchor-cli="0.29.0"
+# anchor-cli="0.30.1"
 
 [features]
 seeds = false
 skip-lint = false
 
 [programs.localnet]
-orao_vrf = "HMDRWmYvL2A9xVKZG8iA1ozxi4gMKiHQz9mFkURKrG4"
+orao_vrf = "G6wY2q15hgJVdMxApMr516TVaAT24d9ps6Cgn1MSWfmW"
 
 [registry]
 url = "https://api.apr.dev"
